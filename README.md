@@ -1,0 +1,3 @@
+### MERN Template - Small Projects
+
+---
